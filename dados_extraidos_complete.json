@@ -1,0 +1,131 @@
+{
+    "tables": [
+        [
+            {
+                "Exercise": "Ab Crunch",
+                "Sets": "3",
+                "Reps": "15"
+            },
+            {
+                "Exercise": "Lying Leg Raise",
+                "Sets": "3",
+                "Reps": "15"
+            },
+            {
+                "Exercise": "Side Oblique Crunch (Each Side)",
+                "Sets": "3",
+                "Reps": "15 Each"
+            },
+            {
+                "Exercise": "Glute Kick Back",
+                "Sets": "3",
+                "Reps": "15"
+            },
+            {
+                "Exercise": "Dumbbell Romanian Deadlift",
+                "Sets": "3",
+                "Reps": "15"
+            },
+            {
+                "Exercise": "Reverse Lunge",
+                "Sets": "3",
+                "Reps": "15"
+            }
+        ],
+        [
+            {
+                "Exercise": "Dumbbell Squat",
+                "Sets": "3",
+                "Reps": "15"
+            },
+            {
+                "Exercise": "Dumbbell Lunge (Each Side)",
+                "Sets": "3",
+                "Reps": "15 Each"
+            },
+            {
+                "Exercise": "Dumbbell Lying Leg Curl (On The Floor)",
+                "Sets": "3",
+                "Reps": "15"
+            },
+            {
+                "Exercise": "Bodyweight Single Leg Deadlift",
+                "Sets": "3",
+                "Reps": "15"
+            },
+            {
+                "Exercise": "Seated Calf Raise",
+                "Sets": "3",
+                "Reps": "15"
+            },
+            {
+                "Exercise": "Standing Calf Raise",
+                "Sets": "3",
+                "Reps": "15"
+            }
+        ],
+        [
+            {
+                "Exercise": "Dumbbell Bench Press (On The Floor)",
+                "Sets": "3",
+                "Reps": "15"
+            },
+            {
+                "Exercise": "Bent-Over Dumbbell Row",
+                "Sets": "3",
+                "Reps": "15"
+            },
+            {
+                "Exercise": "Dumbbell Pullover",
+                "Sets": "3",
+                "Reps": "15"
+            },
+            {
+                "Exercise": "Lateral Raise",
+                "Sets": "3",
+                "Reps": "15"
+            },
+            {
+                "Exercise": "Lying Dumbbell Extension",
+                "Sets": "3",
+                "Reps": "15"
+            },
+            {
+                "Exercise": "Hammer Dumbbell Curl",
+                "Sets": "3",
+                "Reps": "15"
+            }
+        ]
+    ],
+    "details": {
+        "title": "3 DAY FULL BODY WOMEN’S",
+        "main_goal": "Build Muscle Equipment: Bodyweight, Dumbbells",
+        "equipment": [
+            "Bodyweight",
+            "Dumbbells"
+        ],
+        "training_level": "Beginner Target Gender: Female",
+        "target_gender": "Female",
+        "days_per_week": 3,
+        "author": "Roger “Rock” Lockridge",
+        "summary": "Program Duration: 8 Weeks\nClick here for the full workout!\nDay 1 - Abs/Glutes\nExercise Sets Reps\nAb Crunch 3 15\nLying Leg Raise 3 15\nSide Oblique Crunch (Each Side) 3 15 Each\nGlute Kick Back 3 15\nDumbbell Romanian Deadlift 3 15\nReverse Lunge 3 15\nDay 2 - Lower Body\nExercise Sets Reps\nDumbbell Squat 3 15\nDumbbell Lunge (Each Side) 3 15 Each\nDumbbell Lying Leg Curl (On The Floor) 3 15\nBodyweight Single Leg Deadlift 3 15\nSeated Calf Raise 3 15\nStanding Calf Raise 3 15\nDay 3 - Upper Body\nExercise Sets Reps\nDumbbell Bench Press (On The Floor) 3 15\nBent-Over Dumbbell Row 3 15\nDumbbell Pullover 3 15\nLateral Raise 3 15\nLying Dumbbell Extension 3 15\nHammer Dumbbell Curl 3 15\nMUSCLEANDSTRENGTH.COM",
+        "days": [
+            {
+                "day": 1,
+                "title": "Day 1",
+                "exercises": []
+            },
+            {
+                "day": 2,
+                "title": "Day 2",
+                "exercises": []
+            },
+            {
+                "day": 3,
+                "title": "Day 3",
+                "exercises": []
+            }
+        ]
+    },
+    "source": ""
+}

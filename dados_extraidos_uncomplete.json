@@ -1,0 +1,96 @@
+{
+    "tables": [
+        [
+            {
+                "Circuit 1": "Exercise",
+                "null": "Reps"
+            },
+            {
+                "Circuit 1": "Bodyweight Squats",
+                "null": "10 - 15"
+            },
+            {
+                "Circuit 1": "Push Ups",
+                "null": "10 - 15"
+            },
+            {
+                "Circuit 1": "Bodyweight Lunge",
+                "null": "10 - 15"
+            },
+            {
+                "Circuit 1": "Chin Up or Resistance Band Pulldown",
+                "null": "10 - 15"
+            },
+            {
+                "Circuit 1": "Glute Kick Back",
+                "null": "10 - 15"
+            },
+            {
+                "Circuit 1": "Tricep Bench Dip",
+                "null": "10 - 15"
+            },
+            {
+                "Circuit 1": "",
+                "null": null
+            },
+            {
+                "Circuit 1": "",
+                "null": null
+            },
+            {
+                "Circuit 1": "Circuit 2 (More Advanced)",
+                "null": null
+            },
+            {
+                "Circuit 1": "Exercise",
+                "null": "Reps"
+            },
+            {
+                "Circuit 1": "Bodyweight Squat Jumps",
+                "null": "10 - 15"
+            },
+            {
+                "Circuit 1": "1 Leg Pushups",
+                "null": "10 - 15"
+            },
+            {
+                "Circuit 1": "Jumping Lunge",
+                "null": "10 - 15"
+            },
+            {
+                "Circuit 1": "Pull Up",
+                "null": "10 - 15"
+            },
+            {
+                "Circuit 1": "Burpees",
+                "null": "10 - 15"
+            },
+            {
+                "Circuit 1": "Glute Bridge or “Frog Pumps”",
+                "null": "10 - 15"
+            },
+            {
+                "Circuit 1": "Lying Back Extension",
+                "null": "10 - 15"
+            },
+            {
+                "Circuit 1": "",
+                "null": null
+            }
+        ]
+    ],
+    "details": {
+        "title": "THE TOOLS YOU NEED TO BUILD",
+        "main_goal": "Lose Fat Time Per Workout: 30-60 Mins",
+        "equipment": [
+            "Bodyweight"
+        ],
+        "training_level": "",
+        "target_gender": "",
+        "days_per_week": 3,
+        "author": "Team Muscle & Strength",
+        "summary": "",
+        "days": []
+    },
+    "source": ""
+}
